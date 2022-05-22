@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="t_wstep_przygotowanie" path="t_wstep_przygotowanie.html"/>
+   <appContext helpID="c_zdarzenie" path="c_zdarzenie.html"/>
+   <appContext helpID="t_atak_paniki" path="t_atak_paniki.html"/>
+   <appContext helpID="t_krwawienie" path="t_krwawienie.html"/>
+   <appContext helpID="t_obrazenia_oczu" path="t_obrazenia_oczu.html"/>
+   <appContext helpID="t_odmrozenie_hipotermia" path="t_odmrozenie_hipotermia.html"/>
+   <appContext helpID="t_oparzenie_cieplem" path="t_oparzenie_cieplem.html"/>
+   <appContext helpID="t_oparzenie" path="t_oparzenie_substancja.html"/>
+   <appContext helpID="t_rany_i_otarcia" path="t_otarcia.html"/>
+   <appContext helpID="t_porazenie_pradem" path="t_porazenie_pradem.html"/>
+   <appContext helpID="t_rany_ciete" path="t_rany_ciete.html"/>
+   <appContext helpID="t_rany_klute" path="t_rany_klute.html"/>
+   <appContext helpID="t_rany_szarpane" path="t_rany_szarpane.html"/>
+   <appContext helpID="t_udar_cieplny" path="t_udar_cieplny.html"/>
+   <appContext helpID="t_zadlawienie" path="t_zadlawienie.html"/>
+   <appContext helpID="t_zatrucie_pokarmowe" path="t_zatrucie_pies.html"/>
+   <appContext helpID="t_zatrucie_reszta" path="t_zatrucie_reszta.html"/>
+   <appContext helpID="t_zlamanie" path="t_zlamanie.html"/>
+   <appContext helpID="c_apteczka" path="c_apteczka.html"/>
+   <appContext helpID="top_apteczka_preparaty_apteczne"
+               path="top_apteczka_artykuly_akcesoria.html"/>
+   <appContext helpID="top_apteczka_preparaty_apteczne"
+               path="top_apteczka_preparaty_apteczne.html"/>
+   <appContext helpID="top_apteczka_preparaty_apteczne"
+               path="top_apteczka_artykuly_spozywcze.html"/>
+</map>
