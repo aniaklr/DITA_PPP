@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Pierwsza pomoc przedweterynaryjna</title>
+    <topicref href="t_wstep_przygotowanie.dita"/>
+    <topicref href="c_zdarzenie.dita">
+        <topicref href="t_atak_paniki.dita"/>
+        <topicref href="t_krwawienie.dita"/>
+        <topicref href="t_obrazenia_oczu.dita"/>
+        <topicref href="t_odmrozenie_hipotermia.dita"/>
+        <topicref href="t_oparzenie_cieplem.dita"/>
+        <topicref href="t_oparzenie_substancja.dita"/>
+        <topicref href="t_otarcia.dita"/>
+        <topicref href="t_porazenie_pradem.dita"/>
+        <topicref href="t_rany_ciete.dita"/>
+        <topicref href="t_rany_klute.dita"/>
+        <topicref href="t_rany_szarpane.dita"/>
+        <topicref href="t_udar_cieplny.dita"/>
+        <topicref href="t_zadlawienie.dita"/>
+        <topicref href="t_zatrucie_pies.dita"/>
+        <topicref href="t_zatrucie_reszta.dita"/>
+        <topicref href="t_zlamanie.dita"/>
+    </topicref>
+    <topicref href="c_apteczka.dita">
+        <topicref href="top_apteczka_artykuly_akcesoria.dita" chunk="to-content"/>
+        <topicref href="top_apteczka_preparaty_apteczne.dita" chunk="to-content"/>
+        <topicref href="top_apteczka_artykuly_spozywcze.dita" chunk="to-content"/>
+    </topicref>
+</map>

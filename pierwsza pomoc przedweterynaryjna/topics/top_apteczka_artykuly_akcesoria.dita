@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="top_apteczka_preparaty_apteczne">
+    <title>Akcesoria</title>
+    <body>
+        <table id="table_bq2_cnq_ltb">
+            <tgroup cols="3">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <colspec colnum="3" colname="col3"/>
+                <tbody>
+                    <row>
+                        <entry dir="ltr"><b>Produkt</b></entry>
+                        <entry dir="ltr"><b>Zastosowanie</b></entry>
+                        <entry dir="ltr"><b>Uwagi</b></entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">samoprzylepne elastyczne bandaże weterynaryjne o różnych
+                            szerokościach</entry>
+                        <entry dir="ltr">drobne rany i skaleczenia zabezpieczone małym gazikiem lub
+                            kompresem. Zabezpieczenie pyska większego zwierzęcia, które może
+                            próbować ugryźć w przypływie bólu i paniki.</entry>
+                        <entry dir="ltr">Na rynku dostępne są bandaże gorzkie w smaku, co zniechęca
+                            zwierzęta do próby zdjęcia zębami opatrunku. Rozmiar bandaża dostosuj do
+                            wielkości zwierzęcia.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">uniwersalny bandaż elastyczny</entry>
+                        <entry dir="ltr">większe rany, skaleczenia, obrażenia wymagające
+                            usztywnienia kończyny</entry>
+                        <entry dir="ltr">Nie stosować zapinek - końcówkę bandaża lepiej zabezpieczyć
+                            plastrem.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">plaster papierowy lub materiałowy</entry>
+                        <entry dir="ltr">zabezpieczenie małego opatrunku, zabezpieczenie końcówek
+                            bandaża na większym opatrunku</entry>
+                        <entry dir="ltr">Najlepiej zakupić plaster w rolce, aby móc samemu odmierzyć
+                            dowolną długość.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">gaziki i kompresy jałowe</entry>
+                        <entry dir="ltr">oczyszczenie ran i otarć przy pomocy środka
+                            dezynfekującego, bezpośredni opatrunek służący do tamowania krwawienia
+                            czy zabezpieczenia skaleczenia</entry>
+                        <entry dir="ltr">Chropowata struktura gazików pozwala na oczyszczenie rany.
+                            Kompresy materiałowe służą do bezpośredniego zabezpieczania ran.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">pęseta</entry>
+                        <entry dir="ltr">wyciągnięcie żądła, ciernia, czy innego ciała obcego
+                            tkwiącego w ranie</entry>
+                        <entry dir="ltr">Warto także zakupić osobną pęsetę (często w formie
+                            breloczka) ułatwiającą wyciąganie kleszczy. </entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">termometr</entry>
+                        <entry dir="ltr">pomiar temperatury</entry>
+                        <entry dir="ltr">Warto zaopatrzyć się także w wazelinę ułatwiającą aplikację
+                            termometru.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">strzykawka (bez igły)</entry>
+                        <entry dir="ltr">wprowadzenie leków do pyska zwierzęcia</entry>
+                        <entry dir="ltr">Dostosuj wielkość strzykawki do pyska zwierzęcia.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">rękawiczki jednorazowe (lateksowe, winylowe, etc.)</entry>
+                        <entry dir="ltr">zabezpieczenie dłoni np. w kontakcie z krwią lub podczas
+                            usuwania kleszcza</entry>
+                        <entry dir="ltr">Najlepiej zaopatrzyć się w kilka par różnego rozmiaru, aby
+                            w udzielaniu pomocy mogło asystować więcej osób.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">dziecięce skarpetki</entry>
+                        <entry dir="ltr">dodatkowe zabezpieczenie opatrunku na kończynie</entry>
+                        <entry dir="ltr">Bezpieczny zamiennik dla opatrunku uciskowego. Można
+                            dodatkowo odciąć końcówkę skarpety, aby móc założyć ją na dowolną
+                            wysokość kończyny pupila.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">nożyczki</entry>
+                        <entry dir="ltr">cięcie gazików, kompresów czy plastrów na mniejsze
+                            elementy; rozcinanie założonych opatrunków</entry>
+                        <entry>Warto zakupić model zakończony nieostro, tzw. bezpieczne
+                            nożyczki.</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">wata higroskopijna</entry>
+                        <entry dir="ltr">umożliwia założenie bezpiecznego miękkiego opatrunku na
+                            złamaną kończynę</entry>
+                        <entry>Wata z drogerii kosmetycznych nie jest produktem
+                            higroskopijnym.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

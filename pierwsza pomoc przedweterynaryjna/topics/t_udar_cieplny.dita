@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_udar_cieplny">
+    <title>Udar cieplny</title>
+    <shortdesc>Zwierzę dyszy, łapczywie chwyta powietrze, jest wyczerpane, ma ciemnoczerwone
+        dziąsła, możliwa utrata przytomności.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_qgx_fy4_4tb"><note id="note_nsx_qhw_ptb">Udar cieplny częściej przydarza
+                się zwierzętom mniejszym, starszym, o ciemnej i/lub grubej sierści. Dochodzi do
+                niego w warunkach długotrwałej podwyższonej temperatury otoczenia przy jednoczesnym
+                braku możliwości ochłodzenia się.</note><b>Przygotuj:</b><ul id="ul_r2h_jy4_4tb">
+                <li>Chłodna woda do polewania i picia</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Obniż temperaturę ciała zwierzęcia:</cmd>
+                <substeps id="substeps_f4p_my4_4tb">
+                    <substep>
+                        <cmd>Przenieś zwierzę w chłodniejsze, lepiej wentylowane miejsce.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Udostępnij wodę pitną, najlepiej chłodną.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Polewaj całe ciało chłodną wodą.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Nie zmuszaj do poruszania się - w razie potrzeby przenieś zwierzę na
+                            rękach.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Jeśli po 10 minutach nie nastąpi zauważalna poprawa, <b>udaj się do
+                        weterynarza</b>.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_akg_5y4_4tb"><b>Profilaktyka:</b><ul id="ul_vjv_5y4_4tb">
+                <li>Nie dopuszczaj do sytuacji, w których Twoje zwierzę nie ma możliwości się samo i
+                    regularnie schłodzić - wentyluj pomieszczenia, zasłaniaj okna, nie stawiaj
+                    klatki zwierzaka w miejscu, gdzie operuje słońce.</li>
+                <li>Zapewnij dostęp do wody zarówno w domu, w ogrodzie jak i na spacerach.<ul
+                        id="ul_kr2_xy4_4tb">
+                        <li>Zaopatrz się w butelkę z wmontowaną miską.</li>
+                        <li>Szykując się na dłuższy spacer, możesz wrzucić kostki lodu do wody w
+                            butelce.</li>
+                    </ul></li>
+                <li>Nie zostawiaj zwierzęcia w zamkniętym samochodzie, gdy świeci słońce. Promienie
+                    słoneczne nagrzewają wnętrze auta bardzo szybko - nawet jeśli temperatura na
+                    zewnątrz jest komfortowa. <ul id="ul_am3_yy4_4tb">
+                        <li>Jeśli musisz zostawić zwierzę samo, zaparkuj w zacienionym miejscu,
+                            zostaw włączoną klimatyzację lub uchyl okna, by powstał przeciąg.</li>
+                        <li>Zostaw za szybą czytelną informację o włączonej klimatyzacji.</li>
+                    </ul></li>
+            </ul><note id="note_yvr_vz4_4tb" type="important">Zgodnie z art. 26 par. 1 Kodeksu
+                karnego: <q><i>Nie popełnia przestępstwa, kto działa w celu uchylenia bezpośredniego
+                        niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, jeżeli
+                        niebezpieczeństwa nie można inaczej uniknąć, a dobro poświęcone przedstawia
+                        wartość niższą od dobra ratowanego.</i></q> Wynika z tego, że <b>nie
+                    zostanie ukarana osoba, która wybije szybę w rozgrzanym aucie</b>, aby ratować
+                pozostawione tam zwierzę. Karze podlegać może osoba, która naraziła zwierzę na
+                niebezpieczeństwo (utratę zdrowia lub życia).</note></postreq>
+    </taskbody>
+</task>

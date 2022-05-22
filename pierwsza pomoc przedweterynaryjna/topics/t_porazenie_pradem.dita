@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_porazenie_pradem">
+    <title>Porażenie prądem</title>
+    <shortdesc>Zwierzę zostało porażone, np. wskutek przegryzienia kabla.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_dkg_lt4_4tb">
+            <note id="note_kbk_qqq_ptb" type="important" conaction="pushreplace"
+                conref="#t_oparzenie/note_kbk_qqq_ptb">
+                <p dir="ltr" id="docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd">Poparzenie
+                    więcej niż 50% ciała zwierzęcia może doprowadzić do jego śmierci.</p>
+                <p dir="ltr">Na oparzenia nigdy nie stosuj waty i włóknistych materiałów, gdyż mogą
+                    przywrzeć do rany.</p>
+            </note>
+        </prereq>
+        <context id="context_ys3_tpq_ptb"><b>Instrukcja:</b></context>
+        <steps id="steps_zs3_tpq_ptb">
+            <step>
+                <cmd>Odłącz urządzenie od prądu.</cmd>
+            </step>
+            <step>
+                <cmd>Sprawdź oddech i tętno zwierzęcia.</cmd>
+                <substeps id="substeps_fyv_jqq_ptb">
+                    <substep>
+                        <cmd>Rozpocznij reanimację w razie potrzeby.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Po udzieleniu pomocy <b>udaj się do weterynarza</b>.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_w4x_m54_4tb"><b>Profilaktyka:</b><ul id="ul_y3x_n54_4tb">
+                <li>Usuń z zasięgu zwierzęcia łatwe do nadgryzienia przewody elektryczne.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

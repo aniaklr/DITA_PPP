@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="top_apteczka_preparaty_apteczne">
+    <title>Preparaty apteczne</title>
+    <body>
+        <p>Każdy z preparatów aptecznych wymienionych poniżej ma swój weterynaryjny odpowiednik
+            możliwy do zakupu w internecie, sklepie zoologicznym lub u weterynarza. <b>Decydując się
+                na zakup preparatów dedykowanych zwierzętom należy liczyć się z nawet parokrotnie
+                większym kosztem.</b></p>
+        <note id="note_wh1_v3w_ptb">
+            <p dir="ltr" id="docs-internal-guid-d64c79d3-7fff-7887-6f97-9192ea4b7cd6">Pamiętaj,
+                aby:</p>
+            <ul id="ul_o3z_fkq_ltb">
+                <li dir="ltr">
+                    <p dir="ltr">Po każdym skorzystaniu z apteczki uzupełnić zużyte materiały oraz
+                        wymyć i odkazić użyte akcesoria.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Co pół roku sprawdzać ważność leków i preparatów.</p>
+                </li>
+            </ul>
+        </note>
+        <note id="note_pm1_tkq_ltb" type="caution">
+            <p dir="ltr" id="docs-internal-guid-3afab5ca-7fff-8adb-0df2-faa098c26cf0">Nigdy nie
+                podawaj psu leków ze swojej apteczki bez konsultacji z weterynarzem! </p>
+            <p dir="ltr">Dawkowanie dla ludzi i zwierząt może się różnić!</p>
+            <p dir="ltr">Sprawdź termin ważności leku zanim podasz go zwierzęciu!</p>
+        </note>
+        <table id="table_qmd_4kq_ltb">
+            <tgroup cols="4">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <colspec colnum="3" colname="col3"/>
+                <colspec colnum="4" colname="col4"/>
+                <tbody>
+                    <row>
+                        <entry dir="ltr"><b>Rodzaj preparatu</b></entry>
+                        <entry dir="ltr"><b>Zastosowanie</b></entry>
+                        <entry dir="ltr"><b>Postać leku oraz droga podania</b></entry>
+                        <entry dir="ltr"><b>Przykładowy preparat z apteki</b></entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Lek absorbujący toksyny</entry>
+                        <entry dir="ltr">biegunka, podejrzenie zatrucia</entry>
+                        <entry dir="ltr">tabletkę rozgnieść i wymieszać z odrobiną wody</entry>
+                        <entry dir="ltr">Węgiel aktywny</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Lek rozkurczowy</entry>
+                        <entry dir="ltr">ból brzucha, pęcherza moczowego</entry>
+                        <entry dir="ltr">tabletkę podać doustnie</entry>
+                        <entry dir="ltr">No-spa</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Probiotyk</entry>
+                        <entry dir="ltr">ochrona śluzówki przewodu pokarmowego po zatruciu lub w
+                            trakcie antybiotykoterapii</entry>
+                        <entry dir="ltr">kapsułkę rozpuścić w łyżeczce wody i podać doustnie</entry>
+                        <entry dir="ltr">Lakcid</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Lek łagodzący dolegliwości żołądkowe</entry>
+                        <entry dir="ltr">ochrona śluzówki przewodu pokarmowego po zatruciu</entry>
+                        <entry dir="ltr">proszek rozpuścić w wodzie i podać doustnie</entry>
+                        <entry dir="ltr">Smecta</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Środek przeciwuczuleniowy</entry>
+                        <entry dir="ltr">ukąszenie owada, alergia kontaktowa</entry>
+                        <entry dir="ltr">tabletkę rozpuścić w wodzie i podać doustnie</entry>
+                        <entry dir="ltr">Calcium bezsmakowe dowolnej marki</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Preparat dezynfekujący</entry>
+                        <entry dir="ltr">odkażanie ran i otarć</entry>
+                        <entry dir="ltr">spray lub roztwór zaaplikować na skórę</entry>
+                        <entry dir="ltr">Octenisept, ewentualnie woda utleniona</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Preparat wielofunkcyjny do drobnych ran</entry>
+                        <entry dir="ltr">hamuje drobne krwawienia, przeciwzapalny, odkażający,
+                            osuszający, ściągający</entry>
+                        <entry dir="ltr">proszkiem posypać ranę</entry>
+                        <entry dir="ltr">Dermatol</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Preparat przeciwbólowy do stosowania na skórę</entry>
+                        <entry dir="ltr">łagodzi ból po stłuczeniu, zwichnięciu czy naciągnięciu
+                            mięśnia</entry>
+                        <entry dir="ltr">żel/maść wmasować w bolesne miejsce</entry>
+                        <entry dir="ltr">Altacet, Voltaren</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">Preparat antystresowy</entry>
+                        <entry dir="ltr">nagła sytuacja stresowa, choroba lokomocyjna</entry>
+                        <entry dir="ltr">krople podać bezpośrednio na język, tabletkę podać wraz z
+                            przysmakiem</entry>
+                        <entry dir="ltr">krople konopne, krople walerianowe, tryptofan</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

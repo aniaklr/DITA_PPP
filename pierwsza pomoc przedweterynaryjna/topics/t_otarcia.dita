@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_rany_i_otarcia">
+    <title>Otarcia</title>
+    <shortdesc>Zwierzę ma zdarty naskórek, np. na spodniej części łap.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jxv_yv4_4tb"><note id="note_yhj_2w4_4tb" type="attention">Jeśli rana
+                krwawi, przejdź do artykułu <xref href="t_krwawienie.dita"
+                />.</note><b>Przygotuj:</b><ul id="ul_xlb_1w4_4tb">
+                <li>Plaster w rolce</li>
+                <li dir="ltr">Preparat dezynfekujący, np. Octenisept lub Dermatol</li>
+                <li dir="ltr">Źródło bieżącej zimnej wody</li>
+                <li dir="ltr">Gazik/kompres sterylny</li>
+                <li dir="ltr">Bandaż elastyczny lub weterynaryjny</li>
+                <li dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Oczyść wstępnie ranę, polewając ją bieżącą wodą.</cmd>
+            </step>
+            <step>
+                <cmd>Odkaź otarcie środkiem dezynfekującym.</cmd>
+            </step>
+            <step>
+                <cmd>Wytrzyj otarcie gazikiem do sucha.</cmd>
+            </step>
+            <step>
+                <cmd>Czy z otarcia sączy się krew?</cmd>
+                <choices id="choices_kvt_btq_ptb">
+                    <choice>Jeśli nie, nie nakładaj opatrunku.</choice>
+                    <choice>Jeśli tak, przykryj otarcie gazikiem/kompresem i obandażuj.</choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq id="postreq_exf_vw4_4tb"><b>Profilaktyka:</b><ul id="ul_emb_bx4_4tb"
+                conaction="pushreplace" conref="#t_rany_i_otarcia/ul_emb_bx4_4tb">
+                <li>Nie spuszczaj zwierzęcia ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li>Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li>Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

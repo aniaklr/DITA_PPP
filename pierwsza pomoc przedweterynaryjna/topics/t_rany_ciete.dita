@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_rany_ciete">
+    <title>Rany cięte</title>
+    <shortdesc>Zwierzę rozdarło skórę np. o ostre narzędzie.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jxv_yv4_4tb"><note id="note_yhj_2w4_4tb" type="attention">Jeśli rana
+                krwawi, przejdź do artykułu <xref href="t_krwawienie.dita"
+                />.</note><b>Przygotuj:</b><ul id="ul_xlb_1w4_4tb">
+                <li>Plaster w rolce</li>
+                <li dir="ltr">Gazik/kompres sterylny</li>
+                <li dir="ltr">Bandaż elastyczny lub weterynaryjny</li>
+                <li dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context id="context_mh4_l5q_ptb"><b>Instrukcja:</b></context>
+        <steps id="steps_nh4_l5q_ptb">
+            <step>
+                <cmd>Zatamuj krwawienie, jeśli występuje - uciśnij ranę czystym gazikiem.</cmd>
+            </step>
+            <step>
+                <cmd>Wyczyść ranę tylko gdy jest to niezbędne.</cmd>
+            </step>
+            <step>
+                <cmd>Oceń głębokość rany – jeśli jest większa niż 1 cm, po założeniu opatrunku
+                        <b>udaj się do weterynarza</b> celem założenia szwów.</cmd>
+            </step>
+            <step>
+                <cmd>Powoli, ale stanowczo złącz przeciwległe końce rany.</cmd>
+            </step>
+            <step>
+                <cmd>Co centymetr przyklej plastry w taki sposób, aby krzyżowały się tuż nad
+                    rozcięciem.</cmd>
+            </step>
+            <step>
+                <cmd>Przyłóż gazik/kompres.</cmd>
+            </step>
+            <step>
+                <cmd>Zabezpiecz opatrunek bandażem.</cmd>
+            </step>
+            <step>
+                <cmd>Zmieniaj opatrunek co dwie doby.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_exf_vw4_4tb"><b>Profilaktyka:</b><ul id="ul_emb_bx4_4tb"
+                conaction="pushreplace" conref="#t_rany_i_otarcia/ul_emb_bx4_4tb">
+                <li>Nie spuszczaj zwierzęcia ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li>Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li>Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

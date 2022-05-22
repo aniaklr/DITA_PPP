@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_zatrucie_pokarmowe">
+    <title>Zatrucie u psa</title>
+    <shortdesc>Pies ma bolesny brzuch, biegunkę, wymiotuje.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_md4_14q_ptb"><b>Przygotuj:</b><ul id="ul_m5y_xcp_4tb">
+                <li>Preparat absorbujący toksyny, np. węgiel aktywny</li>
+                <li>Lek łagodzący dolegliwości żołądkowe, np. Smecta</li>
+                <li>Wodę pitną</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Nie karm psa przez dobę. Zapewnij dostęp do świeżej wody i obserwuj jego
+                    zachowanie.</cmd>
+            </step>
+            <step>
+                <cmd>Oceń sytuację:</cmd>
+                <substeps id="substeps_fnx_zjq_ptb">
+                    <substep>
+                        <cmd>Jeśli biegunka ustała i nie ma innych objawów, przez najbliższe 3 dni
+                            karm psa mniejszymi porcjami lekkostrawnego jedzenia.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Jeśli biegunka nie ustała, <b>skontaktuj się z weterynarzem
+                                telefonicznie</b>, opisz objawy, ostatnie posiłki zwierzęcia i
+                            wymień dostępne leki. Nie stosuj leków bez dobrania odpowiedniej dawki i
+                            ustalenia kolejności ich zastosowania!</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Jeśli sytuacja jest pilna, a nie masz możliwości kontaktu z
+                            weterynarzem, podaj psu rozgnieciony i wymieszany z wodą węgiel
+                            aktywny.</cmd>
+                        <info>
+                            <note id="note_pgr_smq_ptb">Cząsteczki węgla wiążą się słabo lub wcale z
+                                alkoholami, metalami ciężkimi oraz ksylitolem. Więcej o stosowaniu
+                                węgla: <xref
+                                    href="https://magwet.pl/34838,bezpieczna-dekontaminacja-zoladka-u-psow-z-podejrzeniem-zatrucia?page=2"
+                                    format="html" scope="external"><u>Bezpieczna dekontaminacja
+                                        żołądka u psów z podejrzeniem zatrucia</u></xref>.</note>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq id="postreq_jx1_2mq_ptb"><b>Profilaktyka:</b><ul id="ul_d4y_2mq_ptb">
+                <li>Regularnie myj pojemniki, w których trzymasz pożywienie dla swoich pupili.</li>
+                <li>Mięso, surowe produkty i otwarte puszki trzymaj w lodówce.</li>
+                <li>Obserwuj zwierzę na spacerach i nie dopuszczaj do zjadania z ziemi produktów
+                    nieznanego pochodzenia.</li>
+                <li dir="ltr">Sporządź łatwo dostępną listę składników oraz produktów trujących dla
+                    Twojego pupila i bezwzględnie usuń je z zasięgu zwierzaka.<ul
+                        id="ul_udd_kmq_ptb">
+                        <li>Jeśli oddajesz pupila pod opiekę na czas swojej nieobecności, dostarcz
+                            tymczasowemu opiekunowi tę listę.</li>
+                    </ul></li>
+            </ul></postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_zlamanie">
+    <title>Złamanie</title>
+    <shortdesc>Zwierzę doznało złamania kości, możliwe przerwanie ciągłości skóry.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_x52_scp_4tb"><note id="note_tf2_1dp_4tb" type="danger">Złamania są
+                jednymi z najboleśniejszych wypadków. Cierpiące zwierzę może ugryźć lub boleśnie
+                podrapać w przypływie bólu i paniki. Upewnij się, że możesz bezpiecznie przystąpić
+                do udzielania pierwszej pomocy. W razie konieczności zastosuj kaganiec lub
+                unieruchom zwierzę.</note><b>Przygotuj:</b><ul id="ul_m5y_xcp_4tb">
+                <li>Bandaż elastyczny lub weterynaryjny</li>
+                <li>Higroskopijna wata opatrunkowa</li>
+                <li>Prowizoryczne nosze - duży koc lub chusta</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Upewnij się, że możesz bezpiecznie udzielić pomocy.</cmd>
+            </step>
+            <step>
+                <cmd>Oceń stan zwierzęcia i znajdź miejsce złamania:</cmd>
+                <choices id="choices_cfx_hdp_4tb">
+                    <choice><b>Kończyna</b> - załóż bandaż metodą Roberta Jonesa:<ol
+                            id="ol_fdh_4dp_4tb">
+                            <li>Przyłóż dwa plastry wzdłuż kończyny klejem do zewnątrz.</li>
+                            <li>Owiń równomiernie watą miejsce złamania oraz miejsca nad i pod
+                                złamaniem.</li>
+                            <li>Ściśle owiń opatrunek bandażem.</li>
+                            <li>Wywiń końce plastra na założony bandaż.</li>
+                        </ol><image href="Robert_Jones_method.PNG" id="image_edc_m2p_4tb"
+                            alt="Robert Jones' bandage method"/></choice>
+                    <choice><b>Kręgosłup</b> - jeśli zwierzę nie rusza tylnymi lub żadnymi
+                        kończynami, przetocz zwierzę delikatnie na koc lub chustę i przenieś do
+                        auta.</choice>
+                    <choice><b>Miednica</b> - jeśli zwierzę ma problem ze staniem i/lub poruszaniem
+                        na tylnych nogach, przenieś zwierzę do auta.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd><b>Udaj się do weterynarza</b>.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_ofn_q2p_4tb"><b>Profilaktyka:</b><ul id="ul_xxf_r2p_4tb">
+                <li>Warto wozić w aucie koc lub dużą chustę.</li>
+                <li>Nadzoruj zabawę małych dzieci ze zwierzętami. Dziecko może upuścić małe zwierzę
+                    z dużej wysokości.</li>
+                <li>Naucz dziecko, jak bezpiecznie bawić się ze zwierzętami.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

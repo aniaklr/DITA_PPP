@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_zadlawienie">
+    <title>Zadławienie</title>
+    <shortdesc>Zwierzę krztusi się, próbuje wymiotować.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_rfm_x1p_4tb"><b>Przygotuj:</b><ul id="ul_ik4_y1p_4tb">
+                <li>Twardy przedmiot do zaklinowania szczęki zwierzęcia</li>
+                <li>Pęseta do usunięcia ciała obcego</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Oceń sytuację:</cmd>
+                <choices id="choices_pmg_dbp_4tb">
+                    <choice>
+                        <p>Jeśli zwierzę stosunkowo dobrze oddycha, <b>udaj się do
+                            weterynarza</b>.</p>
+                    </choice>
+                    <choice>
+                        <p>Jeśli zwierzę jest na granicy utraty przytomności i ma siny język:</p>
+                        <ol id="ol_vrg_2bp_4tb">
+                            <li>Zaklinuj jakiś twardy przedmiot w szczęce pupila tak, aby nie mógł
+                                zamknąć pyska.</li>
+                            <li>Sprawdź, czy w obrębie gardła jest widoczne ciało obce - jeśli tak,
+                                wyciągnij je palcami lub pęsetą.</li>
+                            <li>Jeśli powyższe kroki nie pomogły, a zwierzę jest stosunkowo małe,
+                                złap je za tylne kończyny, unieś głową w dół i potrząśnij kilka
+                                razy.</li>
+                            <li>Jeśli powyższe kroki nie pomogły, przeprowadź sztuczne oddychanie
+                                metodą usta-nos.</li>
+                        </ol>
+                    </choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq id="postreq_kyy_fbp_4tb"><b>Profilaktyka:</b><ul id="ul_b2v_gbp_4tb">
+                <li>Jeśli zwierzę ma skłonność do brania do pyska i połykania bądź zabawy
+                    przedmiotami do tego nieprzeznaczonymi, każdorazowo uprzątaj otoczenie, w którym
+                    przebywa pupil.</li>
+                <li>Na spacery zakładaj psu kaganiec siateczkowy zapobiegający braniu przedmiotów do
+                    pyska.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

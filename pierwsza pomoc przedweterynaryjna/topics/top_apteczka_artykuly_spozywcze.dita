@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="top_apteczka_preparaty_apteczne">
+    <title>Artykuły spożywcze</title>
+    <body>
+        <p>Do udzielenia pierwszej pomocy mogą okazać się przydatne artykuły spożywcze z naszej
+            kuchni. Zastosuj je, jeśli nie masz szybkiego dostępu do preparatów
+            specjalistycznych.</p>
+        <table id="table_jbn_4lq_ltb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry dir="ltr"><b>Substancja / produkt</b></entry>
+                        <entry dir="ltr"><b>Działanie</b></entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">wywar z siemienia lnianego</entry>
+                        <entry dir="ltr">przeciwbiegunkowe oraz łagodzące na podrażnienia przewodu
+                            pokarmowego</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">ocet</entry>
+                        <entry dir="ltr">neutralizacja połkniętej substancji zasadowej</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">soda oczyszczona</entry>
+                        <entry dir="ltr">neutralizacja połkniętej substancji kwasowej; okład na
+                            skórę po użądleniu</entry>
+                    </row>
+                    <row>
+                        <entry dir="ltr">sól kuchenna</entry>
+                        <entry dir="ltr">wywoływanie wymiotów przy zatruciu substancją
+                            nieżrącą</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <bodydiv/>
+    </body>
+</topic>

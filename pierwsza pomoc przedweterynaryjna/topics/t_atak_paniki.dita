@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_atak_paniki">
+    <title>Atak paniki</title>
+    <shortdesc>Zwierzę trzęsie się, ucieka lub jest sparaliżowane ze strachu.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_yjs_2xp_ltb"><note id="note_q5t_wzp_ptb">Niektóre zwierzęta pod wpływem
+                konkretnych bodźców wpadają w panikę, np. podczas burzy czy wybuchu
+                fajerwerków.</note><b><?oxy_comment_start author="Ania" timestamp="20220517T221004+0200" comment="Semantic element for titles?"?>Przygotuj<?oxy_comment_end?>:</b><ul
+                id="ul_mh1_3g4_4tb">
+                <li>Woreczek plastikowy</li>
+                <li>Leki uspokajające wcześniej zalecone przez weterynarza</li>
+            </ul></prereq>
+        <context id="context_rdy_tg4_4tb"
+                ><b><?oxy_comment_start author="Ania" timestamp="20220517T221235+0200" comment="This should be a title for steps element, not for the context."?>Instrukcja:<?oxy_comment_end?></b></context>
+        <steps>
+            <step>
+                <cmd>Oceń, czy bodziec już się pojawił:</cmd>
+                <choices id="choices_op3_ydq_ltb">
+                    <choice>Jeszcze nie, ale się go spodziewasz - profilaktycznie podaj naturalne
+                        środki uspokajające (np. krople konopne, krople walerianowe, tryptofan w
+                        tabletkach) na około pół godziny przed wystąpieniem bodźca.<ul
+                            id="ul_qkx_dr4_4tb">
+                            <li>Jeśli stres jest wyjątkowo silny, zastosuj przepisany przez
+                                weterynarza silny lek przeciwlękowy na receptę, np. Xanax czy
+                                Relanium.</li>
+                        </ul></choice>
+                    <choice>Już tak - podaj zaproponowane powyżej środki lub leki i zapewnij
+                        zwierzęciu bezpieczne środowisko, np. w pokoju z zasłoniętymi oknami, w
+                        łazience bez okien albo w ramionach człowieka.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Upewnij się, że zwierzę nie zrobi sobie krzywdy np. podczas ucieczki.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_qpp_lxp_ltb"><b>Profilaktyka:</b><ul id="ul_un4_mg4_4tb">
+                <li>Nie planuj spaceru z psem, jeśli wiesz, że zbliża się burza albo inne zjawisko
+                    stresogenne - pies może zerwać się ze smyczy i się zgubić albo wpaść pod
+                    samochód.</li>
+                <li>Zapewnij zwierzęciu poczucie bezpieczeństwa.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

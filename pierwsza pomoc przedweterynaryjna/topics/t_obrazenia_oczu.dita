@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_obrazenia_oczu">
+    <title>Obrażenia oczu</title>
+    <shortdesc>Zwierzę intensywnie mruga lub nie może otworzyć oka.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_csf_kr4_4tb"><note id="note_o2t_sr4_4tb" type="attention">Opatrywanie oka
+                jest może być wyjątkowo niekomfortowe i bolesne. Upewnij się, że zwierzę w
+                przypływie paniki lub bólu nie będzie mogło zrobić Ci
+                krzywdy.</note><b>Przygotuj:</b><ul id="ul_qfj_lr4_4tb">
+                <li>Jedno ze źródeł świeżej wody:<ul id="ul_dgd_4r4_4tb">
+                        <li>Strzykawkę z wodą<b> lub</b></li>
+                        <li>Obficie nasączony wacik <b>lub </b></li>
+                        <li>Wąż ogrodowy z wodą o niskim ciśnieniu</li>
+                    </ul></li>
+                <li>Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Unieruchom zwierzę tak, aby nie było w stanie kąsać ani drapać.</cmd>
+            </step>
+            <step>
+                <cmd>Oceń sytuację:</cmd>
+                <choices id="choices_u5m_zr4_4tb">
+                    <choice>Jeśli zwierzę nie jest w stanie otworzyć powiek uszkodzonego oka,
+                        natychmiast <b>udaj się do weterynarza</b>.</choice>
+                    <choice>
+                        <p>Jeśli powieki są ruchome, rozewrzyj je delikatnie palcami i oceń wnętrze
+                            oka:</p>
+                        <ul id="ul_ly3_bs4_4tb">
+                            <li>Jeśli ciało obce jest niewidoczne lub nastąpiło poparzenie chlorem
+                                lub cementem, delikatnie lecz obficie opłukuj oko do skutku.</li>
+                            <li>Jeśli ciało obce jest duże i widoczne, spróbuj je usunąć
+                                mechanicznie i następnie opłukać oko.</li>
+                        </ul>
+                    </choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Każdy uraz oka należy traktować jako poważny - po udzieleniu pierwszej pomocy
+                    niezwłocznie <b>udaj się do weterynarza</b> celem oceny dalszego
+                    postępowania.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_y4h_2s4_4tb"><b>Profilaktyka:</b><ul id="ul_slv_2s4_4tb">
+                <li>Usuń z zasięgu zwierzęcia wszelkie chemiczne środki trzymane w domu, w
+                    szczególności żrące.</li>
+                <li>Chroń zwierzęta wychodzące przed dostępem do chemikaliów na zewnątrz, na
+                    przykład na placu budowy czy podczas remontu.</li>
+                <li>Jeśli pupilowi mieszkającemu w klatce często zdarza się zaprószenie oka, należy
+                    uważnie przyjrzeć się sianu i trawom podawanym do jedzenia, a także ściółce -
+                    niektóre z nich mają drobnoziarnisty osad. Warto odsiać zawartość w dłoniach lub
+                    w sitku nylonowym przed wyłożeniem jej w klatce albo przetestować inny
+                    produkt.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

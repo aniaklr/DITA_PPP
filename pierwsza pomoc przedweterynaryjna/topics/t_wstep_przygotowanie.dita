@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_wstep_przygotowanie">
+    <title>Wstęp</title>
+    <shortdesc>Zanim rozpoczniesz udzielanie pomocy.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Za chwilę rozpoczniesz udzielanie pierwszej pomocy przedweterynaryjnej. <b>Weź
+                    głęboki wdech i przygotuj się do działania.</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Oceń sytuację oraz stan zwierzęcia:</cmd>
+                <substeps id="substeps_ut4_h4q_ltb">
+                    <substep>
+                        <cmd>Jeśli to możliwe i konieczne, poproś innych uczestników zdarzenia o
+                            kontakt z zaufanym lub najbliższym weterynarzem w okolicy. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Jeśli jesteś sam(a), zdecyduj, czy zadzwonisz do weterynarza przed czy
+                            po udzieleniu pierwszej pomocy.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Jeśli udzielasz pomocy nieznanemu zwierzęciu, pamiętaj, że może
+                            stanowić dla Ciebie potencjalne zagrożenie. Udzielaj pomocy z najwyższą
+                            ostrożnością.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Upewnij się, że zagrożenie minęło i możesz bezpiecznie udzielić pomocy.</cmd>
+            </step>
+            <step>
+                <cmd>Przygotuj apteczkę lub materiały zamienne, które masz pod ręką.</cmd>
+            </step>
+            <step>
+                <cmd>Jeśli masz taką możliwość, poproś innych uczestników zdarzenia o czytanie Ci
+                    instrukcji postępowania na głos i przygotowywanie kolejnych rzeczy z
+                    apteczki.</cmd>
+            </step>
+            <step>
+                <cmd>Zachowaj spokój udzielając pomocy. </cmd>
+            </step>
+            <step>
+                <cmd>Ustal kolejność działań i działaj metodycznie:</cmd>
+                <substeps id="substeps_dhb_l4q_ltb">
+                    <substep>
+                        <cmd>Zajmij się <b>stanami niebezpiecznymi dla życia</b> zwierzęcia -
+                            niewyczuwalne tętno, bezdech, silne krwawienie.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Zajmij się <b>obrażeniami sprawiającymi największy ból</b>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Zajmij się <b>obrażeniami lżejszymi</b>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Po zakończeniu udzielania pomocy przygotuj się na transport zwierzęcia do
+                    weterynarza. Jeśli to możliwe, zabierz ze sobą książeczkę zdrowia
+                    zwierzęcia.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

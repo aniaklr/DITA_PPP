@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_odmrozenie_hipotermia">
+    <title>Odmrożenie/hipotermia</title>
+    <shortdesc>Zwierzę wychłodziło się, jest osłabione, brak czucia.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_q1j_ms4_4tb"><b>Przygotuj:</b><ul id="ul_ntf_4s4_4tb">
+                <li>Ręcznik</li>
+                <li>Koc</li>
+                <li>Wanna lub szeroka miska</li>
+                <li>Woda z możliwością regulacji temperatury</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Jeśli zwierzę jest mokre, wytrzyj je dokładnie.</cmd>
+            </step>
+            <step>
+                <cmd>Owiń zwierzę kocem.</cmd>
+            </step>
+            <step>
+                <cmd>Przygotuj kąpiel w wannie lub miednicy, zaczynając od letniej wody.</cmd>
+            </step>
+            <step>
+                <cmd>Wsadź pupila do wody dolewaj coraz cieplejszej wody - oceń temperaturę wody
+                    poprzez wsadzenie do wody swojego nadgarstka.</cmd>
+            </step>
+            <step>
+                <cmd>Rób okłady na narządy peryferyjne wystające ponad wodę, np. uszy czy
+                    ogon.</cmd>
+            </step>
+            <step>
+                <cmd>Po 10 minutach oceń stan zwierzęcia:</cmd>
+                <choices id="choices_s5s_ys4_4tb">
+                    <choice>Jeśli krążenie i czucie wróci, skóra zrobi się silnie czerwona.<note
+                            id="note_i1j_12q_ptb">Jeśli zwierzę poczuje silne nieprzyjemne
+                            mrowienie, może próbować gryźć swoją skórę, żeby sobie ulżyć - nie
+                            dopuść do tego.</note></choice>
+                    <choice>Jeśli krążenie nie wróci, osusz zwierzę i <b>udaj się do
+                        weterynarza</b>.</choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq id="postreq_q5p_2t4_4tb"><b>Profilaktyka:</b><ul id="ul_cg3_ft4_4tb">
+                <li>Nie dopuszczaj do długotrwałego przebywania zwierzęcia w niesprzyjających
+                    warunkach pogodowych.</li>
+                <li>Małe zwierzęta domowe szczególnie narażone na zmiany temperatury nie powinny
+                    przebywać na zewnątrz w zimnych miesiącach.</li>
+                <li>Psy małe, z małą ilością tkanki tłuszczowej i/lub z krótką sierścią powinny
+                    zostać zaopatrzone w odzież przeciwdeszczową oraz ocieplaną.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

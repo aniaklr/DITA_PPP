@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_rany_szarpane">
+    <title>Rany szarpane</title>
+    <shortdesc>Zwierzę ma rozerwaną skórę, np. wskutek ugryzienia.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jxv_yv4_4tb"><note id="note_yhj_2w4_4tb" type="attention">Jeśli rana
+                krwawi, przejdź do artykułu <xref href="t_krwawienie.dita"
+                />.</note><b>Przygotuj:</b><ul id="ul_xlb_1w4_4tb">
+                <li dir="ltr">Środek do dezynfekcji w proszku, np. Dermatol lub zasypka
+                    antybiotykowa</li>
+                <li dir="ltr">Pęseta</li>
+                <li>Gaza</li>
+                <li dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context id="context_mh4_l5q_ptb"><b>Instrukcja:</b></context>
+        <steps id="steps_nh4_l5q_ptb">
+            <step>
+                <cmd>Dokładnie przemyj ranę środkiem dezynfekującym.</cmd>
+            </step>
+            <step>
+                <cmd>Zbadaj, czy w środku rany nie tkwi ciało obce.</cmd>
+                <substeps id="substeps_wry_nvq_ptb">
+                    <substep>
+                        <cmd>Jeśli tak, usuń je ostrożnie zdezynfekowaną pęsetą.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Zaaplikuj środek dezynfekujący w proszku.</cmd>
+            </step>
+            <step>
+                <cmd>Przykryj ranę gazą i owiń bandażem.</cmd>
+            </step>
+            <step>
+                <cmd><b>Udaj się do weterynarza</b> celem oceny dalszego postępowania.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_exf_vw4_4tb"><b>Profilaktyka:</b><ul id="ul_emb_bx4_4tb"
+                conaction="pushreplace" conref="#t_rany_i_otarcia/ul_emb_bx4_4tb">
+                <li>Nie spuszczaj zwierzęcia ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li>Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li>Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

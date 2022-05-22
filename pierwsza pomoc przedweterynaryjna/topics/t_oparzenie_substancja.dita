@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_oparzenie">
+    <title>Oparzenie substancją</title>
+    <shortdesc>Zwierzę spożyło lub dotknęło żrącej substancji.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_dkg_lt4_4tb"><note id="note_kbk_qqq_ptb" type="important"
+                conaction="pushreplace" conref="#t_oparzenie/note_kbk_qqq_ptb">
+                <p dir="ltr" id="docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd">Poparzenie
+                    więcej niż 50% ciała zwierzęcia może doprowadzić do jego śmierci.</p>
+                <p dir="ltr">Na oparzenia nigdy nie stosuj waty i włóknistych materiałów, gdyż mogą
+                    przywrzeć do rany.</p>
+            </note><b>Przygotuj:</b><ul id="ul_us1_mt4_4tb">
+                <li>Dostęp do zimnej bieżącej wody</li>
+                <li>Mydło</li>
+                <li>Soda oczyszczona</li>
+                <li>Ocet</li>
+                <li>Strzykawka</li>
+                <li>Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps>
+            <step>
+                <cmd>Rozpoznaj rodzaj oparzenia:</cmd>
+                <choices id="choices_fsz_tt4_4tb">
+                    <choice>Wewnętrzne (połknięcie żrącej substancji):<ol id="ol_nr2_zt4_4tb">
+                            <li>Zachęć zwierzę do wypicia dużej ilości wody, w razie konieczności
+                                podaj wodę strzykawką.</li>
+                            <li>Zneutralizuj substancję w zależności od jej odczynu:<ul
+                                    id="ul_vsm_154_4tb">
+                                    <li>Jeśli zwierzę połknęło kwas, zaaplikuj roztwór sody
+                                        oczyszczonej.</li>
+                                    <li>Jeśli zwierzę połknęło substancję zasadową, zaaplikuj
+                                        roztwór wody z octem.</li>
+                                </ul></li>
+                            <li><b>Udaj się do weterynarza</b>.</li>
+                        </ol></choice>
+                    <choice>Zewnętrzne (skóra, śluzówka):<ol id="ol_xzp_xt4_4tb">
+                            <li>Opłucz zwierzę dokładnie bieżącą wodą.</li>
+                            <li>Delikatnie umyj oparzone miejsce mydłem i wodą, spłucz
+                                dokładnie.</li>
+                        </ol></choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq id="postreq_w4x_m54_4tb"><b>Profilaktyka:</b><ul id="ul_y3x_n54_4tb">
+                <li>Usuń z zasięgu zwierzęcia wszelkie chemiczne środki trzymane w domu, w
+                    szczególności żrące.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

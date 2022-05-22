@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_krwawienie">
+    <title>Krwawienie</title>
+    <shortdesc>Zwierzę skaleczyło się, rana krwawi.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ejk_fm4_4tb"><note id="note_ogk_sl4_4tb" type="attention">
+                <p dir="ltr" id="docs-internal-guid-c6ec33ac-7fff-8944-07de-603a55bc3aa1">Nie czyść
+                    rany <b>przed </b>zatamowaniem krwawienia!</p>
+                <p dir="ltr">Nie czyść świeżej rany <b>materiałem </b>- może to spowodować większe
+                    krwawienie!</p>
+                <p>Jeśli nie potrafisz, nie stosuj <b>opasek uciskowych</b>!</p>
+            </note><b>Przygotuj:</b><ul id="docs-internal-guid-69edee49-7fff-a14e-c291-351d6860d994">
+                <li dir="ltr">Plaster w rolce</li>
+                <li dir="ltr">Gazik/kompres sterylny lub tampon (wata owinięta gazą)</li>
+                <li dir="ltr">Lód owinięty ściereczką lub opatrunek żelowy chłodzący</li>
+                <li dir="ltr">Bandaż elastyczny lub weterynaryjny</li>
+                <li dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context><b>Instrukcja:</b></context>
+        <steps id="steps_sxw_2n4_4tb">
+            <step>
+                <cmd>Skutecznie unieruchom zwierzę pewnym chwytem.</cmd>
+                <substeps id="substeps_zgy_mn4_4tb">
+                    <substep>
+                        <cmd>Jeśli to możliwe, poproś o pomoc uczestnika zdarzenia.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Czy miejsce krwawienia jest <b>łatwo dostępne</b>?</cmd>
+                <choices id="choices_xvg_qn4_4tb">
+                    <choice>Jeśli tak, zastosuj gazik/kompres lub przyłóż swoją dłoń i bezpośrednio
+                        uciskaj krwawiące miejsce.<ul id="ul_r1t_gp4_4tb">
+                            <li>Mniejsze rany uciskaj kciukiem i palcem wskazującym.</li>
+                            <li>Większe rany uciskaj całą dłonią.</li>
+                        </ul></choice>
+                    <choice>Jeśli nie, owiń lód w ściereczkę i zastosuj okład aż do ustąpienia
+                        krwawienia.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Oceń rodzaj krwotoku łatwo dostępnego:</cmd>
+                <choices id="choices_anl_344_4tb">
+                    <choice>Krew sączy się:<ol id="ol_e3f_cq4_4tb">
+                            <li>Uciskając zranione miejsce, sprawdzaj co paręnaście sekund, czy
+                                krwotok ustąpił.</li>
+                            <li>Zabezpiecz ranę opatrunkiem i plastrem tak, aby zwierzę nie
+                                wylizywało rany.</li>
+                        </ol></choice>
+                    <choice>Krew wypływa strumieniem:<ol id="ol_inx_2q4_4tb">
+                            <li>Przyłóż gazik i mocno uciskaj miejsce zranienia przez 30
+                                sekund.</li>
+                            <li>Pozostaw gazik i owiń go ściśle bandażem.</li>
+                            <li>Po 30 minutach usuń bandaż i oceń stan rany. Jeśli krwawienie
+                                wznowiło się, ponownie załóż nowy gazik i bandaż uciskowy.</li>
+                        </ol></choice>
+                    <choice>Jasnoczerwona krew wypływa z rany gwałtownie, pulsując:<ol
+                            id="ol_hwx_jq4_4tb">
+                            <li>Przyłóż gazik i bardzo mocno uciskaj miejsce zranienia przez 30
+                                sekund.</li>
+                            <li>Pozostaw gazik i owiń go ściśle bandażem. Jeśli krew przedostaje się
+                                przez opatrunek, zastosuj dodatkowy bandaż i owiń go nieco
+                                ciaśniej.</li>
+                            <li>Unieruchom zwierzę, przygotuj je do transportu i <b>udaj się do
+                                    weterynarza</b>.</li>
+                        </ol></choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Po pół godzinie od założenia bandaża skontroluj, czy miejsce poniżej bandaża
+                    opuchło, zmieniło kolor lub oziębło:</cmd>
+                <choices id="choices_qn2_qq4_4tb">
+                    <choice>Jeśli tak, usuń poprzedni bandaż i załóż nowy nieco luźniej.</choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq id="postreq_zdx_sq4_4tb"><b>Profilaktyka:</b><ul id="ul_rmg_g2w_ptb">
+                <li>Nie spuszczaj psa ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li>Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li>Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task>
